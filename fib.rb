@@ -1,5 +1,5 @@
-index = 0
-arr = [0, 1]
+index = 1
+arr = [1, 2]
 while index < 100
   index = arr.last(2).sum
   break if index > 100
