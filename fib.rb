@@ -7,4 +7,4 @@ while index < 100
   arr << index
 end
 
-puts arr.inspect
+puts arr.to_s
